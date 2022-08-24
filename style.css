@@ -1,0 +1,30 @@
+.card-body, .col1, .col2{
+    background-color: #7dd3d4 ;
+}
+.fondo{
+    background: rgb(125,211,212);
+    background: linear-gradient(0deg, rgba(125,211,212,1) 0%, rgba(0,212,255,1) 100%);
+}
+.card-title{
+    font-family: 'Roboto', sans-serif;
+    font-weight: bolder;
+    color:#f09b3a;
+    font-size: 2em;
+}
+.card-body{
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+
+}
+p {
+    color: aliceblue;
+}
+i{
+    color:#f09b3a;
+}
+img {
+    max-height: 300px;
+}
+.margen {
+    margin-left: 80px;
+}
